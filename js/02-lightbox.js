@@ -23,6 +23,6 @@ let lightbox = new SimpleLightbox(".gallery a", {
   captionDelay: 250,
   captionsData: "alt",
   enableKeyboard: true,
-  close: true,
+  close: true
 });
 
